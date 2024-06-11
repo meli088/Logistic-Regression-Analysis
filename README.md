@@ -1,2 +1,2 @@
 # LogisticRegressionAnalysis
-Ce projet explore une analyse de régression logistique appliquée à un jeu de données spécifique. Le code R (`Regression_logistique.R`) effectue les calculs et les analyses nécessaires, tandis que le fichier PDF (`rapport.pdf`) fournit un rapport détaillé des résultats et des conclusions.
+This project explores a logistic regression analysis applied to a specific dataset. The R code (`Regression_logistique.R`) performs the necessary calculations and analyses, while the PDF file (`report.pdf`) provides a detailed report of results and conclusions.
